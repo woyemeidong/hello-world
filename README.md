@@ -1,2 +1,5 @@
 # hello-world
-搞不懂
+
+Hi Humans
+
+Hubot here,I like Node.
